@@ -1,0 +1,16 @@
+{
+    "user": {
+        "name": "Jeff",
+        "preferences": [],
+        "interests": [
+            "Informatique",
+            "Programmation",
+            "L'utilisateur exprime un intérêt pour comprendre le fonctionnement des alimentations électriques, ce qui peut être lié à des centres d'intérêt techniques ou à des projets liés à l'électronique."
+        ]
+    },
+    "projects": [
+        "L'utilisateur développe une IA personnelle en utilisant Python et Ollama",
+        "Développement continu de l'IA personnelle avec Python et Ollama"
+    ],
+    "facts": []
+}
